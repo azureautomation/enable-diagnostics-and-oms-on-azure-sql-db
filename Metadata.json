@@ -1,0 +1,20 @@
+{
+    "Author": "Joachim Stapelfeldt",
+    "ContentSize": 3208,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enable-diagnostics-and-oms-on-azure-sql-db/master/Set-AzureDBDiagnostics.ps1",
+    "DownloadCount": 816,
+    "Id": "Enable-diagnostics-and-OMS-5c47f3e2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 391,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-7-18T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "DescriptionThis PowerShell automation runbook enables diagnostics on a SQL Database and forward logs to OMS.\u00a0The script can enable multiple SQL Servers at once and multiple SQL Databases - but also with the possibility to enable single items.",
+    "Title": "Enable diagnostics and OMS on Azure SQL DB",
+    "UpdatedDate": "2017-7-24T00:00:00",
+    "Url": "https://github.com/azureautomation/enable-diagnostics-and-oms-on-azure-sql-db",
+    "UserTags": "SQL Server, Diagnostics, Microsoft Azure"
+}
